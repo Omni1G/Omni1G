@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omni1G
 - 👀 I’m interested in Codeing and Building Secure wallets 
-- 🌱 I’m currently learning Python,Rust and Ruby
-- 💞️ I’m looking to collaborate on Google
+- 🌱 I’m currently learning Python and Rust
+- 💞️ I’m looking to collaborate on Google,and Crypto Projects
 - 📫 How to reach me omniprimeofthesea@gmail.com
 
 <!---
